@@ -1,0 +1,1 @@
+# Proyecto-ML-An-lisis-y-Clustering-de-Cooperativas-del-Segmento-1-en-Ecuador
