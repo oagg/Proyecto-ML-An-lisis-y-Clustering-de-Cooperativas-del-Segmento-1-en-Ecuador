@@ -1,0 +1,27 @@
+# === Core scientific stack ===
+numpy==1.26.4
+pandas==2.1.4
+scikit-learn==1.5.0
+scipy==1.11.4
+
+# === Visualización ===
+matplotlib==3.8.2
+seaborn==0.13.2
+
+# === Extracción de datos ===
+requests==2.31.0
+tabula-py==2.9.0
+jpype1==1.5.1
+
+# === Limpieza y procesamiento de texto ===
+unidecode==1.3.7
+rapidfuzz==3.6.1
+
+# === Notebooks ===
+jupyter==1.0.0
+
+# === PDF & sistema de archivos ===
+PyPDF2==3.0.1
+
+# === (Opcional) para compatibilidad con Colab ===
+tqdm==4.66.1
